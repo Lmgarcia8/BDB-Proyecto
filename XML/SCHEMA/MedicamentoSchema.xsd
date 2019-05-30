@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="TABLE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="MEDICAMENTO"/>
+      </xs:sequence>
+      <xs:attribute name="NAME" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MEDICAMENTO">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nombre"/>
+        <xs:element ref="tipoconsumir"/>
+        <xs:element ref="dosis"/>
+        <xs:element ref="precioaproximado"/>
+        <xs:element ref="autorizado"/>
+        <xs:element ref="principioactivo_id"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nombre" type="xs:string"/>
+  <xs:element name="tipoconsumir" type="xs:string"/>
+  <xs:element name="dosis" type="xs:string"/>
+  <xs:element name="precioaproximado" type="xs:integer"/>
+  <xs:element name="autorizado" type="xs:NCName"/>
+  <xs:element name="principioactivo_id" type="xs:integer"/>
+</xs:schema>

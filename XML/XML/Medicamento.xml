@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE NAME = "MEDICAMENTO">
+    <MEDICAMENTO id="6607824">
+        <nombre> DALSY </nombre>
+        <tipoconsumir> SUSPENSION ORAL </tipoconsumir>
+        <dosis> 30ML </dosis>
+        <precioaproximado> 5 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11478 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="6798454">
+        <nombre> DALSY </nombre>
+        <tipoconsumir> COMPRIMIDOS RECUBIERTOS </tipoconsumir>
+        <dosis> 400 MG 30 </dosis>
+        <precioaproximado> 5 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11478 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="6194294">
+        <nombre> DALSY </nombre>
+        <tipoconsumir> COMPRIMIDOS RECUBIERTOS </tipoconsumir>
+        <dosis> 400 MG 500 </dosis>
+        <precioaproximado> 7 </precioaproximado>
+        <autorizado> FALSE </autorizado>
+        <principioactivo_id> 11478 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="6819739">
+        <nombre> ENANTYUM </nombre>
+        <tipoconsumir> COMPRIMIDOS RECUBIERTOS </tipoconsumir>
+        <dosis> 12.5 MG 20 </dosis>
+        <precioaproximado> 4 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11391 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="7021605">
+        <nombre> ENANTYUM </nombre>
+        <tipoconsumir> CAPSULAS </tipoconsumir>
+        <dosis> 25 MG 20 </dosis>
+        <precioaproximado> 6 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11391 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="6596807">
+        <nombre> STOPCOLD </nombre>
+        <tipoconsumir> COMPRIMIDOS LIBERACION PROLONGADA </tipoconsumir>
+        <dosis> 5/120 MG 20 </dosis>
+        <precioaproximado> 5 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11222 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="7019046">
+        <nombre> AERO RED </nombre>
+        <tipoconsumir> GOTAS ORALES SOLUCION </tipoconsumir>
+        <dosis> 100 MG/ML 100 ML </dosis>
+        <precioaproximado> 6 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11951 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="6652640">
+        <nombre> COMPRIMIDOS MASTICABLES MENTA </nombre>
+        <tipoconsumir> COMPRIMIDOS RECUBIERTOS </tipoconsumir>
+        <dosis> 120 MG 40 </dosis>
+        <precioaproximado> 8 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11951 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="9807481">
+        <nombre> FLUTOX </nombre>
+        <tipoconsumir> JARABE </tipoconsumir>
+        <dosis> 3.54 MG/ML 5 120 ML </dosis>
+        <precioaproximado> 7 </precioaproximado>
+        <autorizado> FALSE </autorizado>
+        <principioactivo_id> 11256 </principioactivo_id>
+    </MEDICAMENTO>
+    <MEDICAMENTO id="7937524">
+        <nombre> FLUTOX </nombre>
+        <tipoconsumir> COMPRIMIDOS RECUBIERTOS </tipoconsumir>
+        <dosis> 10 MG 20 </dosis>
+        <precioaproximado> 7 </precioaproximado>
+        <autorizado> TRUE </autorizado>
+        <principioactivo_id> 11256 </principioactivo_id>
+    </MEDICAMENTO>
+</TABLE>

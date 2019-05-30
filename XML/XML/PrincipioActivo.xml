@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE name="PRINCIPIOACTIVO">
+    <PRINCIPIOACTIVO id="11256">
+        <nombre>Cloperastina fendizoato</nombre>
+    </PRINCIPIOACTIVO>
+    <PRINCIPIOACTIVO id="11478">
+        <nombre>Ibuprofeno</nombre>
+    </PRINCIPIOACTIVO>
+    <PRINCIPIOACTIVO id="11391">
+        <nombre>Dexketoprofeno trometamol</nombre>
+    </PRINCIPIOACTIVO>
+    <PRINCIPIOACTIVO id="11222">
+        <nombre>cetirizina dihidrocloruro</nombre>
+    </PRINCIPIOACTIVO>
+    <PRINCIPIOACTIVO id="11951">
+        <nombre>Simeticona</nombre>
+    </PRINCIPIOACTIVO>
+</TABLE>
